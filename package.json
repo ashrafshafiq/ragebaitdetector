@@ -1,7 +1,7 @@
 {
-  "name": "next-chrome-starter",
+  "name": "rage-bait-detector",
   "version": "0.0.1",
-  "description": "Next.js Chrome Extension Starter, Demo Example by ibnzUK. https://github.com/ibnzUK/next-chrome-starter",
+  "description": "Rage Bait Detector — a Next.js Chrome extension that flags engagement-farming profiles on X.",
   "main": "index.js",
   "scripts": {
     "build": "npm run prep",

@@ -4,15 +4,15 @@ export default function New({ navigateToPage}) {
     return (
         <div className={styles.container}>
         <main className={styles.main}>
-          <h1 className={styles.title}>NEXT-CHROME-STARTER</h1>
+          <h1 className={styles.title}>Rage Bait Detector</h1>
           <p className={styles.description}>
-            This is an example of a Browser Extension built with NEXT.JS.
-            Please refer to the GitHub repo for running instructions and
-            documentation
+            Tap the extension on a profile to see a quick gut-check on whether
+            the account is stirring outrage for engagement. We never post or
+            follow on your behalf.
           </p>
-          <h1 className={styles.code}>New Page ./components/New/index.js</h1>
-          <p>{"[ - This is New page content - ]"}</p>
-          <p onClick={() => navigateToPage('index')}>{"< Go Back"}</p>
+          <h1 className={styles.code}>Signals we watch</h1>
+          <p>{"Outrage-heavy posting streaks • reply-bait prompts • recycled takes • lopsided follow ratios"}</p>
+          <p onClick={() => navigateToPage('index')}>{"< Back to profile check"}</p>
         </main>
       </div>
     );

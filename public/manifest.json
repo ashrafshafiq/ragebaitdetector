@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "NEXT-CHROME-STARTER",
-  "short_name": "N-C-S",
+  "name": "Rage Bait Detector",
+  "short_name": "Rage Bait",
   "version": "0.0.1",
-  "description": "Next.js Chrome Extension Starter, Demo Example by ibnzUK. https://github.com/ibnzUK/next-chrome-starter",
+  "description": "Quickly flag engagement-farming, rage-bait profiles while browsing X.",
   "icons": {
     "16": "/icons/icon16.png",
     "32": "/icons/icon32.png",
